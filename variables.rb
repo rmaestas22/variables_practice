@@ -7,3 +7,6 @@ future_age = 31
 
 amount_paid = 10.5
 amount_due = 5.5
+
+payment_made = true
+payment_complete = false
